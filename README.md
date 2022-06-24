@@ -9,11 +9,21 @@ It offers a cloud-native Kubernetes security platform with end-to-end vulnerabil
 With the Open Zero Trust (OZT) platform, DevOps, DevSecOps, and Security teams have the tools they need to secure the entire container pipeline, from Build to Ship to Run, automatically.
 
 
+# Architecture
+
+
+
+# Features
+
+
+
 # Getting Started
 
 In our [docs](https://open-docs.neuvector.com) you can find many examples and information about OZT.
 
-You can also visit our [official blog]() where you can find interesting articles, news and anouncements.
+
+You can also visit our [official blog](https://blog.neuvector.com/article) where you can find interesting articles, news and anouncements.
+
 
 If you have some comments and would like to reach out or get involved in the project you can also visit our [chat group]().
 
@@ -21,7 +31,7 @@ If you have some comments and would like to reach out or get involved in the pro
 
 # Quick start
 
-OZT can be deployed in many container management platforms, including:
+OZT can be deployed in many container management platforms, here you can find instructions on how to deploy on some of them:
 + [SUSE Rancher](https://open-docs.neuvector.com/deploying/rancher)
 + [Red Hat OpenShift](https://open-docs.neuvector.com/deploying/openshift)
 + [VMWare Tanzu]()
@@ -29,18 +39,42 @@ OZT can be deployed in many container management platforms, including:
 + [AKS](https://open-docs.neuvector.com/deploying/publick8s)
 + [GKE](https://open-docs.neuvector.com/deploying/publick8s)
 
+For more information visit the [deployment section](https://open-docs.neuvector.com/deploying/production#planning-deployments)) in our documentation page.
 
 
-A viewable version of docs can be seen at https://open-docs.neuvector.com.
+<< Animated gif here >>
 
-The images are on the NeuVector Docker Hub registry. Use the appropriate version tag for the manager, controller, enforcer, and leave the version as 'latest' for scanner and updater. For example:
-+ neuvector/manager:5.0.0
-+ neuvector/controller:5.0.0
-+ neuvector/enforcer:5.0.0
-+ neuvector/scanner:latest
-+ neuvector/updater:latest
 
-Note: Deploying from the Rancher Manager 2.6.5+ NeuVector chart pulls from the rancher-mirrored repo and deploys into the cattle-neuvector-system namespace.
+Once you have it deployed start protecting your applications
+
+
+<< Animated gif here >>
+
+
+
+# Contribute and join us!
+
+Do you have ideas you would like to see implemented into the project? do you see something that needs improvement? have you already developed something and want to see it in the main branch? 
+
+
+**We welcome contributors!**
+
+
+It doesn't have to be just technical.
+
+
+Visit our [Contributing Guidelines](neuvector/neuvector/blob/main/CONTRIBUTING.md).
+
+
+# Security
+
+
+We are all about security, if you found a security issue we welcome your feedback.
+
+
+Please have a look at our [security guidelines](neuvector/blob/main/SECURITY.md) for how to report a vulnerability.
+
+
 
 # License
 
