@@ -1,8 +1,35 @@
 <img align="right" src="https://github.com/openzt/openzerotrust/blob/main/OpenZeroTrustLogo_Green2.png" width="150px" />
 
-# NeuVector
+# Open Zero Trust
 
-NeuVector Full Lifecycle Container Security Platform delivers the only cloud-native security with uncompromising end-to-end protection from DevOps vulnerability protection to automated run-time security, and featuring a true Layer 7 container firewall.
+Open Zero Trust is a Full Lifecycle Container Security platform, delivering end-to-end security for modern container infrastructures.
+
+It offers a cloud-native Kubernetes security platform with end-to-end vulnerability management, automated CI/CD pipeline security, and comprehensive run-time security, including the container firewall to block zero days and other threats.
+
+With the Open Zero Trust (OZT) platform, DevOps, DevSecOps, and Security teams have the tools they need to secure the entire container pipeline, from Build to Ship to Run, automatically.
+
+
+# Getting Started
+
+In our [docs](https://open-docs.neuvector.com) you can find many examples and information about OZT.
+
+You can also visit our [official blog]() where you can find interesting articles, news and anouncements.
+
+If you have some comments and would like to reach out or get involved in the project you can also visit our [chat group]().
+
+
+
+# Quick start
+
+OZT can be deployed in many container management platforms, including:
++ [SUSE Rancher](https://open-docs.neuvector.com/deploying/rancher)
++ [Red Hat OpenShift](https://open-docs.neuvector.com/deploying/openshift)
++ [VMWare Tanzu]()
++ [EKS](https://open-docs.neuvector.com/deploying/publick8s)
++ [AKS](https://open-docs.neuvector.com/deploying/publick8s)
++ [GKE](https://open-docs.neuvector.com/deploying/publick8s)
+
+
 
 A viewable version of docs can be seen at https://open-docs.neuvector.com.
 
