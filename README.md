@@ -11,6 +11,12 @@ With the Open Zero Trust (OZT) platform, DevOps, DevSecOps, and Security teams h
 
 # Architecture
 
+<< diagram here >>
+
+There are three main components:
+
++ [Manager](https://github.com/openzt/manager) - Security Center Admin Console for Open Zero Trust Container Security Platform.
++ [Scanner](https://github.com/openzt/scanner) - Vulnerability scanner for Open Zero Trust Container Security Platform.
 
 
 # Features
