@@ -17,6 +17,9 @@ With the Open Zero Trust (OZT) platform, DevOps, DevSecOps, and Security teams h
 
 
 
+**[Roadmap](https://github.com/openzt/openzerotrust/blob/main/ROADMAP.md)**
+
+
 # Getting Started
 
 In our [docs](https://open-docs.neuvector.com) you can find many examples and information about OZT.
