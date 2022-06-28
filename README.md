@@ -1,6 +1,8 @@
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-green.svg?style=flat)](CONTRIBUTING.md)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](http://www.apache.org/licenses/LICENSE-2.0)
 <img align="right" src="https://github.com/openzt/openzerotrust/blob/main/OpenZeroTrustLogo_Green2.png" width="150px" />
 
-# Open Zero Trust
+## Open Zero Trust
 
 Open Zero Trust is a Full Lifecycle Container Security platform, delivering end-to-end security for modern container infrastructures.
 
@@ -8,8 +10,18 @@ It offers a cloud-native Kubernetes security platform with end-to-end vulnerabil
 
 With the Open Zero Trust (OZT) platform, DevOps, DevSecOps, and Security teams have the tools they need to secure the entire container pipeline, from Build to Ship to Run, automatically.
 
+# Table of Contents
 
-# Architecture
+- [Architecture](#Architecture)
+- [Features](#Features)
+- [Getting Started](#Getting-Started)
+  - [Quick start](#Quick-start)
+- [Contributing](#Contributing)
+  - [Security](#Security)
+- [License](#License)
+
+
+## Architecture
 
 << diagram here >>
 
@@ -19,14 +31,14 @@ There are three main components:
 + [Scanner](https://github.com/openzt/scanner) - Vulnerability scanner for Open Zero Trust Container Security Platform.
 
 
-# Features
+## Features
 
 
 
 **[Roadmap](https://github.com/openzt/openzerotrust/blob/main/ROADMAP.md)**
 
 
-# Getting Started
+## Getting Started
 
 In our [docs](https://open-docs.neuvector.com) you can find many examples and information about OZT.
 
@@ -38,7 +50,7 @@ If you have some comments and would like to reach out or get involved in the pro
 
 
 
-# Quick start
+### Quick start
 
 OZT can be deployed in many container management platforms, here you can find instructions on how to deploy on some of them:
 + [SUSE Rancher](https://open-docs.neuvector.com/deploying/rancher)
@@ -61,7 +73,9 @@ Once you have it deployed start protecting your applications
 
 
 
-# Contribute and join us!
+## Contributing
+
+**Contribute and join us!**
 
 Do you have ideas you would like to see implemented into the project? do you see something that needs improvement? have you already developed something and want to see it in the main branch? 
 
@@ -72,20 +86,20 @@ Do you have ideas you would like to see implemented into the project? do you see
 It doesn't have to be just technical.
 
 
-Visit our [Contributing Guidelines](neuvector/neuvector/blob/main/CONTRIBUTING.md).
+Visit our [Contributing Guidelines](CONTRIBUTING.md).
 
 
-# Security
+### Security
 
 
 We are all about security, if you found a security issue we welcome your feedback.
 
 
-Please have a look at our [security guidelines](neuvector/blob/main/SECURITY.md) for how to report a vulnerability.
+Please have a look at our [security guidelines](SECURITY.md) for how to report a vulnerability.
 
 
 
-# License
+## License
 
 Copyright © 2016-2022 [NeuVector Inc](https://neuvector.com). All Rights Reserved
 
